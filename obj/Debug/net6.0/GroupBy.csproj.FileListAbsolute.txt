@@ -1,0 +1,15 @@
+C:\Users\giorgio\Documents\cc\example\GroupBy\bin\Debug\net6.0\GroupBy.exe
+C:\Users\giorgio\Documents\cc\example\GroupBy\bin\Debug\net6.0\GroupBy.deps.json
+C:\Users\giorgio\Documents\cc\example\GroupBy\bin\Debug\net6.0\GroupBy.runtimeconfig.json
+C:\Users\giorgio\Documents\cc\example\GroupBy\bin\Debug\net6.0\GroupBy.dll
+C:\Users\giorgio\Documents\cc\example\GroupBy\bin\Debug\net6.0\GroupBy.pdb
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.csproj.AssemblyReference.cache
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.AssemblyInfoInputs.cache
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.AssemblyInfo.cs
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.dll
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\refint\GroupBy.dll
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.pdb
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\GroupBy.genruntimeconfig.cache
+C:\Users\giorgio\Documents\cc\example\GroupBy\obj\Debug\net6.0\ref\GroupBy.dll
